@@ -2,8 +2,9 @@
 # 1af-pi-screensaver-slide.sh
 
 # url: ###
-# This script is licensed under GNU GPL version 2.0 or above
+# This script is licensed under GNU GPL version 3.0 or above
 
+# contribution: ###
 # Based on script screensaverfull.sh
 # Copyright (c) 2017 jamcnaughton.com
 # url code: https://github.com/jamcnaughton/useful-linux-scripts/simplescreensaver
